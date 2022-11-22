@@ -1,0 +1,59 @@
+.nav-wrapper{
+background-color: black;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 4pc;
+}
+
+.card-content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.carousel{
+    background-color: black;
+}
+.fa-camera-movie{
+    color: white;
+}
+.arriba{
+    margin-right: 15px;
+    background-color: white;
+    position:fixed;
+    right:0;
+    bottom: 5%;
+    font-size:1.5rem ;
+    display: flex; 
+    
+    align-items: flex-end;
+    z-index: 100;
+
+}
+.footer{
+    display: table;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+   padding-top: 2%;
+}
+.fa-youtube{
+    margin-left: 5px;
+    background-color: white;
+    color: red;
+}
+.fa-twitch {
+    margin-left: 5px;
+    color: purple;
+    background-color: white;
+}
+.fa-facebook{
+    background-color: white;
+    color: blue;
+}
+.container-fluid{
+    background-color: orange;
+    font-family: 'Courier New', Courier, monospace
+}
+.navbar-brand{
+    color: red;
+    background-color: white;
+}
